@@ -1,0 +1,30 @@
+Q3. What are loops, and what do we need them? Explain different types of loops with their syntax and
+examples.
+
+Answer:
+Loops in JavaScript allow repetitive execution of a block of code as long as a specified condition is true. They are essential for tasks like iterating over arrays, performing repetitive calculations, and automating tasks.
+
+1. **For Loop**  
+   **Syntax:**  
+   ```javascript
+   for (initialization; condition; increment/decrement) {
+       // code to execute
+   }
+   ```
+
+2. **While Loop**  
+   **Syntax:**  
+   ```javascript
+   while (condition) {
+       // code to execute
+   }
+   ```
+
+3. **Do-While Loop**  
+   **Syntax:**  
+   ```javascript
+   do {
+       // code to execute
+   } while (condition);
+   ```
+
